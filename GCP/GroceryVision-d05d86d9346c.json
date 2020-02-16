@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groceryvision",
+  "private_key_id": "d05d86d9346c89563e986306b3114b4249e8d21e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy873uL+EUPpvH\n5lxeOGXqPyBeTKd6J4wLT/438oIiwe7LqfWfCaj1ekDaczLJNyZhJyAQp9/6fjqF\ntO+/foIXzOm5rxRaUjqO/hUHUyVcOzNcDvu4KEVJ5vZsZthKqFfbjJMa7ecUZZ1W\ntRhzTSsPIYwHk4p1ExtLvlsIoknAkN9PVsMhqRIohoBggLbY5Ww5bQbnng+tj0P8\na9AAKoJ+ngBCUVRARbMfmDb0pnyOXkJjRMcc9Yit1m3gnzZV0Kpn9Bkb5wpshaCT\n/1PNItrH0b6QBLez0qP5AlNA+74cRSeyu+6KIMWBJbt/w+ZC2KuI23HGpK9GbpoK\nUNBn1lLVAgMBAAECggEAIb10F4cefGcrjv6fdsJScN6TF0SDpTP0oyNjbqACKlR/\nVhYG8gPrv9DbjnR+5FJKIbIzSQCl6cBH/3K0a1oKZDtl6/UXNMphMRm11Eo4dpHQ\n5rAKhNfO7Jan6ptfd4ATBJmWGNM3KPDZwAHoCMFJd5JfKQSH6/f8wwSyfEfA+RXm\npowSJy7iuvGZtISUue63jSgZ9nhF+2JEo3crs4f9eqM21o9bIlD6t0226xVHkflG\nzU6e46oJPZpurXLQdoT8yljf40uWk8WBwgeIN9ZEzB+z8zgE8Ur7VhWso93sTyU6\nD52WwKtgFBfvIsqLqO2FHbrob2iopMOgL8dlHL5AwQKBgQDlJjX1pqGsgdEOrP+l\nVpzojWoqlNysjoZWnUlRj9pOMJt92RLliU177RMEoTXlx1O9A2J6kudvGa6fRyFt\n602S453ol6jcpRJ4zWHYW6byFX4yu3sIsNE9vERjRxom1nbzBXR9kSKORn8kk1gy\n4JFWsstoU3Tw5nMU9ziY4qac4QKBgQDH68SFcHuS/EGY5Zq2RxKl9mqHvb9w0qSc\naWzTeI4WmmHShXUiSHVR0wMyqV+Q62IkMh6v+qCDznuldNd2PgA1+cBqVigTVe9e\nWzKQCh974NvOUL3uQcBCggr7fo6Uy6RZ+OVll9rTFGfErz9dlN4tVRqcJXt3Xbqh\n77+OoCSgdQKBgQDd/CZJ0yLL+vaLQQxnH4DhyB0RIySkBW4eekCMws648F2xjJjB\nxEFLzF6gHYwZDQASGzVLiQSqnDaOFlpMIacEpXxT1pe/KCq83DntXtxbqHaYrwaB\nZMlPBRM7GaY7+YdB5gbznaXcLm78/8BxiRtC4fIrHq4qsRTLOrOZZ/gAAQKBgCB1\n3o3QCrB99uSteyZXeeaqkPeDTp8yBHpE/9+CNofi/zkgZDlxzGLBwUYrjBHKtj+s\nR6FJL2DXWOovg4B2ZrBc4eoiHRWuoVQPuLD8g8ooY2gnYf9ae64Q0VmuXdY5DnFx\nYUXSlzwolwSvc7ltH3n61Hw/9cEW3ePHOrIcvHW1AoGAOoggPJOW6HPhqkXGOSs6\ndHuowFmewWm/6KCiWWYv7jwgiDVP1dSJ78Kdi9xxYU1y9BeTW6D+qorX/YYFCkmF\nMtCiHgqOyVLcxPEkY3MY83v22Hn9aMxDaejKX6Xvq6X8phJ6D59vkerls7uAoSlQ\nTUdkRWLmsk/msFQt0OVeuqI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionsa@groceryvision.iam.gserviceaccount.com",
+  "client_id": "113407484726106268161",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionsa%40groceryvision.iam.gserviceaccount.com"
+}
